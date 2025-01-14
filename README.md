@@ -1,0 +1,1 @@
+We are tasked with predicting the next day's closing price of Tesla stock (TSLA) using historical stock data. The goal is to build a regression model to forecast future prices, leveraging features such as price change, moving averages, and volume changes. We will use both a Linear Regression model and a Random Forest Regressor to evaluate which model provides better predictions.
